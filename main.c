@@ -1,7 +1,9 @@
 #include <stdio.h> 
 
+#define new_line "\n"
+
 int main()
 {
-    printf("Servus\n");
+    printf("Servus"new_line);
     return 0;
 }
