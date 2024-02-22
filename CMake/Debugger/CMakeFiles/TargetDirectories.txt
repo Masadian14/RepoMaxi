@@ -1,0 +1,3 @@
+/workspaces/RepoMaxi/CMake/Debugger/CMakeFiles/cmake_example.dir
+/workspaces/RepoMaxi/CMake/Debugger/CMakeFiles/edit_cache.dir
+/workspaces/RepoMaxi/CMake/Debugger/CMakeFiles/rebuild_cache.dir
